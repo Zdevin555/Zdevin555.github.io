@@ -1,0 +1,17 @@
+# Site settings
+title: Diwen Zhang
+description: Personal Website
+profilepic: 'assets/images/dwz.jpg'
+baseurl: ''
+
+author:
+  name: 'Diwen Zhang'
+  email: zhangdiw@sheridancollege.ca
+  github_username:  Zdevin555
+  linkedin_username:  dz5
+
+# User settings
+username: Diwen Zhang
+user_description: I'm a Software Engineer from Sheridan College and always searching for the next challenge.
+
+exclude: ['package.json', 'src' , 'node_modules']
