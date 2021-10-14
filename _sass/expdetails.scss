@@ -1,0 +1,34 @@
+.expdetails {
+    position: relative;
+    padding: 0;
+    svg {
+      width: 60px !important;
+      height: auto;
+    }
+}
+  
+.tech {
+    margin: 10px;
+    flex: 1 1 0;
+}
+  
+  .user {
+    text-align: center;
+    font-size: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    p {
+      font-size: 16px;
+    }
+    @media only screen and (min-width: 768px) {
+      flex-wrap: nowrap;
+      font-size: 30px;
+    }
+  }
+  
+  .user-details {
+    text-align: center;
+    margin: 5px auto;
+  }

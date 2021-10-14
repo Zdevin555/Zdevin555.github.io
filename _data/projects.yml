@@ -1,0 +1,25 @@
+# projects section data
+
+- name: Calendar App
+  gh_user: Zdevin555
+  repo: Calendar-Projects
+  img: 'assets/images/projects/CAL.jpg'
+  desc: A web application to display the current month calendar and highlights today with a different colour when it is launched. It also allows to navigate other months with the previous/next month buttons.
+- 
+  name: COVID-19 Canada Data App
+  gh_user: Zdevin555
+  repo: COVID-19-Canada-Data
+  img: 'assets/images/projects/CVD.jpg'
+  desc: A responsive web application to report the number of COVID-19 confirmed cases in Canada and selected provinces since Jan 31 2020 and it also shows a line graph of the daily confirmed cases since 2020-01-31.
+
+- name: Inch To Cm Converter
+  gh_user: Zdevin555
+  repo: Inch-To-Cm-Converter 
+  img: 'assets/images/projects/UCT.jpg'
+  desc: An Angular application to convert inches to centimetres and vice versa.
+
+- name: Angular Tutorial Videos Website
+  gh_user: Zdevin555
+  repo: Video-Website
+  img: 'assets/images/projects/VWS.jpg'
+  desc: An Angular application to load the list of 5 Angular tutorial videos from a local JSON file, and to display the list using Angular Material Card component.
