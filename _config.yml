@@ -1,5 +1,5 @@
 # Site settings
-title: Diwen Zhang
+title: Devin Zhang
 description: 'Personal Web Page'
 baseurl: ''
 profilepic: 'assets/images/dwz.jpg'
@@ -7,8 +7,8 @@ bkimage: 'assets/images/bk.jpg'
 font_awesome: 'd68e3e64c8.js'
 
 author:
-  name: 'Diwen Zhang'
-  email: zhangdiw@sheridancollege.ca
+  name: 'Devin Zhang'
+  email: devinz5050@gmail.com
   github_username:  Zdevin555
   linkedin_username:  dz5
 

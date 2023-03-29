@@ -1,6 +1,12 @@
 # projects section data
 
-- name: Calendar App
+- name: DZMusic Website
+  gh_user: Zdevin555
+  repo: DZMusic_Website
+  img: 'assets/images/projects/DZM.jpg'
+  desc: A music website using a technology stack consisting of React and Redux, with features including custom playlist creation and playlist playback functionality. 
+
+  name: Calendar App
   gh_user: Zdevin555
   repo: Calendar-Projects
   img: 'assets/images/projects/CAL.jpg'
@@ -11,12 +17,6 @@
   repo: COVID-19-Canada-Data
   img: 'assets/images/projects/CVD.jpg'
   desc: A responsive web application to report the number of COVID-19 confirmed cases in Canada and selected provinces since Jan 31 2020 and it also shows a line graph of the daily confirmed cases since 2020-01-31.
-
-- name: Inch To Cm Converter
-  gh_user: Zdevin555
-  repo: Inch-To-Cm-Converter 
-  img: 'assets/images/projects/UCT.jpg'
-  desc: An Angular application to convert inches to centimetres and vice versa.
 
 - name: Angular Tutorial Videos Website
   gh_user: Zdevin555
