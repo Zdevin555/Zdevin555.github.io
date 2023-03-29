@@ -6,7 +6,7 @@
   img: 'assets/images/projects/DZM.jpg'
   desc: A music website using a technology stack consisting of React and Redux, with features including custom playlist creation and playlist playback functionality. 
 
-  name: Calendar App
+- name: Calendar App
   gh_user: Zdevin555
   repo: Calendar-Projects
   img: 'assets/images/projects/CAL.jpg'
